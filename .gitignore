@@ -16,3 +16,4 @@ ENV/
 # Sandbox / temp files
 demo_sandbox/
 .DS_Store
+*.tar.gz
